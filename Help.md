@@ -9,3 +9,7 @@
   1. approve changes automatically
     
     - https://developer.hashicorp.com/terraform/cli/commands/apply
+
+  2. Cheat Sheet
+
+    - https://spacelift.io/blog/terraform-commands-cheat-sheet
